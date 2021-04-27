@@ -1,0 +1,30 @@
+
+.hero-container {
+    position: relative;
+    /* background: linear-gradient(150deg, rgba(158,42,43,1) 0%, rgba(255,255,255,0.6811099439775911) 63%); */
+    min-height: 100vh;
+
+    /* background: linear-gradient(150deg, rgba(84,11,14,1) 0%, rgba(255,255,255,1) 100%); */
+
+
+/* background: linear-gradient(150deg, rgba(224,159,62,1) 0%, rgba(255,255,255,1) 100%); */
+}
+
+.background-image {
+    right: 0%;
+    bottom: 0;
+    max-width: 580px;
+    width: 40%;
+    display: none;
+    position:absolute;
+    
+}
+
+.wave-container {
+    position: absolute;
+    border: 0;
+    bottom: -1px;
+    /* top: 50%; */
+    right: 0;
+    left: 0;
+  }
