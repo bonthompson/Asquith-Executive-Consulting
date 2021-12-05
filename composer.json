@@ -1,0 +1,15 @@
+{
+    "name": "bonniethompson/asquith-executive-consulting",
+    "autoload": {
+        "psr-4": {
+            "Bonniethompson\\AsquithExecutiveConsulting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bonthompson",
+            "email": "bonniethompson123456@gmail.com"
+        }
+    ],
+    "require": {}
+}
