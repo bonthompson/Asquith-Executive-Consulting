@@ -12,6 +12,7 @@ ReactDOM.render(
   <HashRouter>
     <Routes>
       <Route path='/' element={<App />} />
+      <Route path='test' element={<App />} />
     </Routes>
   </HashRouter>,
   document.getElementById('root')
